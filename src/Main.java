@@ -2,7 +2,8 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("elena reas");
+        String message = "mario";
+        System.out.println(message);
     }
 }
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
