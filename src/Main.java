@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         String message = "mario";
         System.out.println(message);
+        System.out.println("mario rozzi");
     }
 }
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
